@@ -1,6 +1,12 @@
 # iare-nitw-iot-session
 My official repo for a session by NIT W and IARE on IoT Application Development
 
+# Process
+1. End-Device <br/>
+Step - 1: Connect Sensor with Arduino <br/>
+Step - 2: You have to read data from Arduino <br/>
+Step - 3: The data read by Arduino has to be sent to IoT Gateway <br/> 
+
 # Flow
 1. Data Collection
 2. Data Communication to Cloud through IoT Gateway
