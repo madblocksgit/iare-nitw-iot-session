@@ -13,6 +13,7 @@ Step - 5: You have to create an account in AWS <br/>
 Step - 6: You have to create an instance (ubuntu) - Elastic Compute Engine <br/>
 Step - 7: sudo apt-get update && sudo apt-get upgrade -y <br/>
 Step - 8: Launch MQTT Broker (Mosquitto) on AWS - sudo apt-get install mosquitto <br/>
+Step - 9: In security group, we have to create an inbound rule for 1883 <br/>
 
 # Flow
 1. Data Collection
