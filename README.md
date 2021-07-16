@@ -6,6 +6,8 @@ My official repo for a session by NIT W and IARE on IoT Application Development
 Step - 1: Connect Sensor with Arduino <br/>
 Step - 2: You have to read data from Arduino <br/>
 Step - 3: The data read by Arduino has to be sent to IoT Gateway <br/> 
+2. IoT Gateway <br/>
+Step - 4: Gateway has to receive data from Arduino <br/>
 
 # Flow
 1. Data Collection
