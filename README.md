@@ -17,7 +17,7 @@ Step - 9: In security group, we have to create an inbound rule for 1883 <br/>
 Step - 10: We have to create pub (IoT Gateway), sub (AWS) scripts  <br/>
 Step - 11: We have to split the data received by AWS and that data we have to store in DB Server <br/>
 Step - 12: Launch the DB Server, NoSQL, Document-driven, mongoDB - sudo apt-get install mongodb <br/> 
-Step - 13: 27017 (port no of mongodb), mongo - client, mongodb - server
+Step - 13: 27017 (port no of mongodb), mongo - client, mongodb - server <br/>
 Step - 14: We have to install pymongo - pip install pymongo <br/>
 
 # Flow
@@ -36,6 +36,6 @@ Step - 14: We have to install pymongo - pip install pymongo <br/>
 6. How to create a Web App
 
 # References
-https://medium.com/@parvathanenimadhu/launch-web-server-on-aws-ec2-in-under-15-minutes-e1d21c6ef6f2
-https://www.raspberrypi.org/
-https://www.arduino.cc
+https://medium.com/@parvathanenimadhu/launch-web-server-on-aws-ec2-in-under-15-minutes-e1d21c6ef6f2 <br/>
+https://www.raspberrypi.org/ <br/>
+https://www.arduino.cc <br/>
