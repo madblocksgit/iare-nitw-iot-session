@@ -8,6 +8,9 @@ Step - 2: You have to read data from Arduino <br/>
 Step - 3: The data read by Arduino has to be sent to IoT Gateway <br/> 
 2. IoT Gateway <br/>
 Step - 4: Gateway has to receive data from Arduino <br/>
+3. AWS <br/>
+Step - 5: You have to create an account in AWS <br/>
+Step - 6: You have to create an instance (ubuntu) - Elastic Compute Engine <br/>
 
 # Flow
 1. Data Collection
