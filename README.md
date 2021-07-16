@@ -14,6 +14,11 @@ Step - 6: You have to create an instance (ubuntu) - Elastic Compute Engine <br/>
 Step - 7: sudo apt-get update && sudo apt-get upgrade -y <br/>
 Step - 8: Launch MQTT Broker (Mosquitto) on AWS - sudo apt-get install mosquitto <br/>
 Step - 9: In security group, we have to create an inbound rule for 1883 <br/>
+Step - 10: We have to create pub (IoT Gateway), sub (AWS) scripts  <br/>
+Step - 11: We have to split the data received by AWS and that data we have to store in DB Server <br/>
+Step - 12: Launch the DB Server, NoSQL, Document-driven, mongoDB - sudo apt-get install mongodb <br/> 
+Step - 13: 27017 (port no of mongodb), mongo - client, mongodb - server
+Step - 14: We have to install pymongo - pip install pymongo <br/>
 
 # Flow
 1. Data Collection
