@@ -19,7 +19,7 @@ Step - 11: We have to split the data received by AWS and that data we have to st
 Step - 12: Launch the DB Server, NoSQL, mongoDB - sudo apt-get install mongodb <br/> 
 Step - 13: 27017 (port no of mongodb), mongo - client, mongodb - server <br/>
 Step - 14: We have to install pymongo - pip install pymongo <br/>
-Step - 15: Run the programs pub (main.py) and sub (main_aws.py) for collecting the data
+Step - 15: Run the programs pub (main.py) and sub (main_aws.py) for collecting the data <br/>
 Step - 16: Run the program dataset.py after collecting the data
 
 # Flow
