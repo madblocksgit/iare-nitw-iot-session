@@ -1,6 +1,12 @@
 # iare-nitw-iot-session
 My official repo for a session by NIT W and IARE on IoT Application Development
 
+# Flow
+1. Data Collection
+2. Data Communication to Cloud through IoT Gateway
+3. Data Storage in Cloud (AWS)
+4. Data Analysis in Cloud (AWS)
+
 # Applications
 
 1. How to Launch AWS Elastic Compute Engine of Ubuntu Instance
