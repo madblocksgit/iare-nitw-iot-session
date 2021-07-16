@@ -11,6 +11,8 @@ Step - 4: Gateway has to receive data from Arduino <br/>
 3. AWS <br/>
 Step - 5: You have to create an account in AWS <br/>
 Step - 6: You have to create an instance (ubuntu) - Elastic Compute Engine <br/>
+Step - 7: sudo apt-get update && sudo apt-get upgrade -y
+Step - 8: Launch MQTT Broker (Mosquitto) on AWS - sudo apt-get install mosquitto <br/>
 
 # Flow
 1. Data Collection
