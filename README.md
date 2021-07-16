@@ -26,3 +26,5 @@ Step - 4: Gateway has to receive data from Arduino <br/>
 
 # References
 https://medium.com/@parvathanenimadhu/launch-web-server-on-aws-ec2-in-under-15-minutes-e1d21c6ef6f2
+https://www.raspberrypi.org/
+https://www.arduino.cc
